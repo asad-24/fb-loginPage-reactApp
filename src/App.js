@@ -1,6 +1,6 @@
 
 import './App.css';
-import Loginfb from './Loginfb.jsx';
+import Loginfb from './components/Loginfb.jsx';
 
 
 
